@@ -6,13 +6,13 @@
 
 Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
 
-|   Index | Name                                      | Level   | Project Link                                                                                   |
-|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
-|       1 | Development of Golang Caching Component   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-development-of-golang-caching-component)   |
-|       2 | Cache Request Execution Results           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-cache-request-execution-results)           |
-|       3 | Implement JSON Comment Interpreter        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-json-comment-interpreter)        |
-|       4 | Transparent Modification of HTTP Requests | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-transparent-modification-of-http-requests) |
-|       5 | What Day Is It Today?                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-what-day-is-it-today)                      |
+|   Index | Name                                                                                                                    | Level   | Project Link                                                                          |
+|---------|-------------------------------------------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------------------------|
+|       1 | [Development of Golang Caching Component](https://labex.io/courses/project-development-of-golang-caching-component)     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-development-of-golang-caching-component)   |
+|       2 | [Cache Request Execution Results](https://labex.io/courses/project-cache-request-execution-results)                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-cache-request-execution-results)           |
+|       3 | [Implement JSON Comment Interpreter](https://labex.io/courses/project-implement-json-comment-interpreter)               | ★☆☆     | [🚀 Start](https://labex.io/courses/project-implement-json-comment-interpreter)        |
+|       4 | [Transparent Modification of HTTP Requests](https://labex.io/courses/project-transparent-modification-of-http-requests) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-transparent-modification-of-http-requests) |
+|       5 | [What Day Is It Today?](https://labex.io/courses/project-what-day-is-it-today)                                          | ★☆☆     | [🚀 Start](https://labex.io/courses/project-what-day-is-it-today)                      |
 
 ## More Projects
 
