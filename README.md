@@ -1,10 +1,10 @@
-# Practice Go Programming Projects
+# Practice Golang Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang is an open-source programming language that makes it easy to build simple, reliable, and efficient software. In this skill tree, you'll learn the fundamentals of the language, including the basics of syntax, an introduction to types, and object-oriented programming in Go.
+Golang is a modern, efficient programming language. This Skill Tree presents a systematic approach to learning Go. Ideal for programmers looking to explore concurrent and systems programming, it offers a structured roadmap to understand Go's syntax, concurrency model, and standard library. Hands-on, non-video courses and coding exercises in an interactive Golang playground ensure you develop practical skills in writing efficient and scalable Golang programs.
 
 |   Index | Name                                                                                                                    | Level   | Project Link                                                                          |
 |---------|-------------------------------------------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------------------------|
@@ -17,15 +17,15 @@ Golang is an open-source programming language that makes it easy to build simple
 ## More Projects
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
+- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
+- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
 - [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
+- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
+- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
 - [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
 - [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
 - [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
@@ -35,10 +35,7 @@ Golang is an open-source programming language that makes it easy to build simple
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -48,12 +45,11 @@ Golang is an open-source programming language that makes it easy to build simple
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
 
-- 🔗 [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- 🔗 [Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
