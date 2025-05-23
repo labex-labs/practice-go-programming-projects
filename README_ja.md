@@ -14,15 +14,15 @@ Golang は現代的で効率的なプログラミング言語です。このス�
 
 |   インデックス | 名前                                                                                                                   | 難易度   | 練習                                                                                           |
 |----------------|------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------|
-|              1 | [Golang キャッシングコンポーネントの開発](https://labex.io/ja/courses/project-development-of-golang-caching-component) | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-development-of-golang-caching-component)   |
-|              2 | [キャッシュリクエスト実行結果](https://labex.io/ja/courses/project-cache-request-execution-results)                    | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-cache-request-execution-results)           |
-|              3 | [JSON コメントインタープリターの実装](https://labex.io/ja/courses/project-implement-json-comment-interpreter)          | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-implement-json-comment-interpreter)        |
-|              4 | [HTTP リクエストの透過的な変更](https://labex.io/ja/courses/project-transparent-modification-of-http-requests)         | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-transparent-modification-of-http-requests) |
-|              5 | [今日は何曜日ですか？](https://labex.io/ja/courses/project-what-day-is-it-today)                                       | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-what-day-is-it-today)                      |
+|              1 | [Golang キャッシングコンポーネントの開発](https://labex.io/ja/courses/project-development-of-golang-caching-component) | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-development-of-golang-caching-component)   |
+|              2 | [キャッシュリクエスト実行結果](https://labex.io/ja/courses/project-cache-request-execution-results)                    | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-cache-request-execution-results)           |
+|              3 | [JSON コメントインタープリターの実装](https://labex.io/ja/courses/project-implement-json-comment-interpreter)          | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-implement-json-comment-interpreter)        |
+|              4 | [HTTP リクエストの透過的な変更](https://labex.io/ja/courses/project-transparent-modification-of-http-requests)         | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-transparent-modification-of-http-requests) |
+|              5 | [今日は何曜日ですか？](https://labex.io/ja/courses/project-what-day-is-it-today)                                       | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-what-day-is-it-today)                      |
 
 ## その他
 
 - 🔗 [Go 言語 詳細について](https://labex.io/ja/skilltrees/go)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
