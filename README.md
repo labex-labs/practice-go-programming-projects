@@ -12,17 +12,17 @@ Golang is a modern and efficient programming language. This Skill Tree offers a 
 
 ## Exercises
 
-|   Index | Name                                                                                                                       | Difficulty   | Practice                                                                                      |
-|---------|----------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------|
-|       1 | [Development of Golang Caching Component](https://labex.io/en/courses/project-development-of-golang-caching-component)     | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-development-of-golang-caching-component)   |
-|       2 | [Cache Request Execution Results](https://labex.io/en/courses/project-cache-request-execution-results)                     | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-cache-request-execution-results)           |
-|       3 | [Implement JSON Comment Interpreter](https://labex.io/en/courses/project-implement-json-comment-interpreter)               | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-implement-json-comment-interpreter)        |
-|       4 | [Transparent Modification of HTTP Requests](https://labex.io/en/courses/project-transparent-modification-of-http-requests) | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-transparent-modification-of-http-requests) |
-|       5 | [What Day Is It Today?](https://labex.io/en/courses/project-what-day-is-it-today)                                          | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-what-day-is-it-today)                      |
+|   Index | Name                                                                                                                    | Difficulty   | Practice                                                                                   |
+|---------|-------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------|
+|       1 | [Development of Golang Caching Component](https://labex.io/courses/project-development-of-golang-caching-component)     | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-development-of-golang-caching-component)   |
+|       2 | [Cache Request Execution Results](https://labex.io/courses/project-cache-request-execution-results)                     | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-cache-request-execution-results)           |
+|       3 | [Implement JSON Comment Interpreter](https://labex.io/courses/project-implement-json-comment-interpreter)               | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-implement-json-comment-interpreter)        |
+|       4 | [Transparent Modification of HTTP Requests](https://labex.io/courses/project-transparent-modification-of-http-requests) | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-transparent-modification-of-http-requests) |
+|       5 | [What Day Is It Today?](https://labex.io/courses/project-what-day-is-it-today)                                          | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-what-day-is-it-today)                      |
 
 ## More
 
-- 🔗 [Golang Learn more about](https://labex.io/en/skilltrees/go)
+- 🔗 [Golang Learn more about](https://labex.io/skilltrees/go)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
