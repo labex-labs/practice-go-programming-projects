@@ -14,15 +14,15 @@ Golang 는 현대적이고 효율적인 프로그래밍 언어입니다. 이 스
 
 |   인덱스 | 이름                                                                                                     | 난이도   | 연습                                                                                          |
 |----------|----------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
-|        1 | [Golang 캐싱 컴포넌트 개발](https://labex.io/ko/courses/project-development-of-golang-caching-component) | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-development-of-golang-caching-component)   |
-|        2 | [캐시 요청 실행 결과](https://labex.io/ko/courses/project-cache-request-execution-results)               | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-cache-request-execution-results)           |
-|        3 | [JSON 주석 인터프리터 구현](https://labex.io/ko/courses/project-implement-json-comment-interpreter)      | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-implement-json-comment-interpreter)        |
-|        4 | [HTTP 요청 투명 수정](https://labex.io/ko/courses/project-transparent-modification-of-http-requests)     | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-transparent-modification-of-http-requests) |
-|        5 | [오늘은 무슨 요일인가요?](https://labex.io/ko/courses/project-what-day-is-it-today)                      | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-what-day-is-it-today)                      |
+|        1 | [Golang 캐싱 컴포넌트 개발](https://labex.io/ko/courses/project-development-of-golang-caching-component) | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-development-of-golang-caching-component)   |
+|        2 | [캐시 요청 실행 결과](https://labex.io/ko/courses/project-cache-request-execution-results)               | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-cache-request-execution-results)           |
+|        3 | [JSON 주석 인터프리터 구현](https://labex.io/ko/courses/project-implement-json-comment-interpreter)      | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-implement-json-comment-interpreter)        |
+|        4 | [HTTP 요청 투명 수정](https://labex.io/ko/courses/project-transparent-modification-of-http-requests)     | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-transparent-modification-of-http-requests) |
+|        5 | [오늘은 무슨 요일인가요?](https://labex.io/ko/courses/project-what-day-is-it-today)                      | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-what-day-is-it-today)                      |
 
 ## 더 보기
 
 - 🔗 [Golang 자세히 알아보기](https://labex.io/ko/skilltrees/go)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
