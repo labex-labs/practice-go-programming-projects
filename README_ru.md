@@ -14,15 +14,15 @@ Golang - это современный и эффективный язык про
 
 |   Индекс | Название                                                                                                                   | Сложность   | Практика                                                                                               |
 |----------|----------------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
-|        1 | [Разработка кэширующего компонента на Golang](https://labex.io/ru/courses/project-development-of-golang-caching-component) | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-development-of-golang-caching-component)   |
-|        2 | [Кэширование результатов выполнения запросов](https://labex.io/ru/courses/project-cache-request-execution-results)         | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-cache-request-execution-results)           |
-|        3 | [Реализация интерпретатора комментариев JSON](https://labex.io/ru/courses/project-implement-json-comment-interpreter)      | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-implement-json-comment-interpreter)        |
-|        4 | [Прозрачное изменение HTTP-запросов](https://labex.io/ru/courses/project-transparent-modification-of-http-requests)        | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-transparent-modification-of-http-requests) |
-|        5 | [Какой сегодня день недели?](https://labex.io/ru/courses/project-what-day-is-it-today)                                     | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-what-day-is-it-today)                      |
+|        1 | [Разработка кэширующего компонента на Golang](https://labex.io/ru/courses/project-development-of-golang-caching-component) | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-development-of-golang-caching-component)   |
+|        2 | [Кэширование результатов выполнения запросов](https://labex.io/ru/courses/project-cache-request-execution-results)         | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-cache-request-execution-results)           |
+|        3 | [Реализация интерпретатора комментариев JSON](https://labex.io/ru/courses/project-implement-json-comment-interpreter)      | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-implement-json-comment-interpreter)        |
+|        4 | [Прозрачное изменение HTTP-запросов](https://labex.io/ru/courses/project-transparent-modification-of-http-requests)        | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-transparent-modification-of-http-requests) |
+|        5 | [Какой сегодня день недели?](https://labex.io/ru/courses/project-what-day-is-it-today)                                     | Начинающий  | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-what-day-is-it-today)                      |
 
 ## Больше
 
 - 🔗 [Golang Узнать больше о](https://labex.io/ru/skilltrees/go)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
 
