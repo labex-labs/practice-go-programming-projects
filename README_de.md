@@ -14,15 +14,15 @@ Golang ist eine moderne und effiziente Programmiersprache. Dieser Skill Tree bie
 
 |   Index | Name                                                                                                                         | Schwierigkeit   | Übung                                                                                             |
 |---------|------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|
-|       1 | [Entwicklung einer Golang-Caching-Komponente](https://labex.io/de/courses/project-development-of-golang-caching-component)   | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-development-of-golang-caching-component)   |
-|       2 | [Zwischenspeichern von Anforderungsergebnissen](https://labex.io/de/courses/project-cache-request-execution-results)         | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-cache-request-execution-results)           |
-|       3 | [Implementierung eines JSON-Kommentar-Interpreters](https://labex.io/de/courses/project-implement-json-comment-interpreter)  | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-implement-json-comment-interpreter)        |
-|       4 | [Transparente Modifikation von HTTP-Anfragen](https://labex.io/de/courses/project-transparent-modification-of-http-requests) | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-transparent-modification-of-http-requests) |
-|       5 | [Welcher Tag ist heute?](https://labex.io/de/courses/project-what-day-is-it-today)                                           | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-what-day-is-it-today)                      |
+|       1 | [Entwicklung einer Golang-Caching-Komponente](https://labex.io/de/courses/project-development-of-golang-caching-component)   | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-development-of-golang-caching-component)   |
+|       2 | [Zwischenspeichern von Anforderungsergebnissen](https://labex.io/de/courses/project-cache-request-execution-results)         | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-cache-request-execution-results)           |
+|       3 | [Implementierung eines JSON-Kommentar-Interpreters](https://labex.io/de/courses/project-implement-json-comment-interpreter)  | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-implement-json-comment-interpreter)        |
+|       4 | [Transparente Modifikation von HTTP-Anfragen](https://labex.io/de/courses/project-transparent-modification-of-http-requests) | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-transparent-modification-of-http-requests) |
+|       5 | [Welcher Tag ist heute?](https://labex.io/de/courses/project-what-day-is-it-today)                                           | Anfänger        | [🚀 Labor Starten](https://labex.io/de/courses/project-what-day-is-it-today)                      |
 
 ## Mehr
 
 - 🔗 [Golang Erfahren Sie mehr über](https://labex.io/de/skilltrees/go)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Großartige Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Großartige Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
 
