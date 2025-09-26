@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang est un langage de programmation moderne et efficace. Cet arbre de compétences offre une méthode systématique pour apprendre Go. Il est idéal pour les programmeurs intéressés par la programmation concurrente et système, fournissant une feuille de route structurée pour maîtriser la syntaxe de Go, son modèle de concurrence et sa bibliothèque standard. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif Golang vous aident à développer des compétences pratiques pour écrire des programmes Golang efficaces et évolutifs.
+Apprenez le Golang grâce à ce parcours d'apprentissage structuré, conçu pour les débutants. Ces cours complets de Golang offrent un moyen systématique de maîtriser le langage de programmation Go, moderne et efficace. La feuille de route couvre la syntaxe de Go, son modèle de concurrence et sa bibliothèque standard. Développez des compétences pratiques grâce à des exercices interactifs non-vidéo dans un environnement de développement Golang interactif, en vous concentrant sur l'écriture de programmes efficaces et évolutifs pour la programmation concurrente et de systèmes.
 
 ## Exercices
 
