@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang ist eine moderne und effiziente Programmiersprache. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von Go. Er ist ideal für Programmierer, die sich für nebenläufige und Systemprogrammierung interessieren, und bietet einen strukturierten Fahrplan, um die Syntax von Go, das Nebenläufigkeitsmodell und die Standardbibliothek zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven Golang Playground helfen Ihnen, praktische Fähigkeiten im Schreiben effizienter und skalierbarer Golang-Programme zu entwickeln.
+Lernen Sie Golang mit diesem strukturierten Lernpfad, der für Anfänger konzipiert ist. Diese umfassenden Golang-Kurse bieten einen systematischen Weg, die moderne und effiziente Programmiersprache Go zu meistern. Die Roadmap deckt die Go-Syntax, das Parallelitätsmodell und die Standardbibliothek ab. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einem interaktiven Golang-Playground, wobei der Fokus auf dem Schreiben effizienter und skalierbarer Programme für die Parallel- und Systemprogrammierung liegt.
 
 ## Übungen
 
