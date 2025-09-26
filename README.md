@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/YgASYacMNI6I.png">
 </div>
 
-Golang is a modern and efficient programming language. This Skill Tree offers a systematic way to learn Go. It's perfect for programmers interested in concurrent and systems programming, providing a structured roadmap to grasp Go's syntax, concurrency model, and standard library. Hands - on, non - video courses and coding exercises in an interactive Golang playground help you develop practical skills in writing efficient and scalable Golang programs.
+Learn Golang with this structured learning path, designed for beginners. These comprehensive Golang courses offer a systematic way to master the modern and efficient Go programming language. The roadmap covers Go's syntax, concurrency model, and standard library. Develop practical skills through hands-on, non-video exercises in an interactive Golang playground, focusing on writing efficient and scalable programs for concurrent and systems programming.
 
 ## Exercises
 
